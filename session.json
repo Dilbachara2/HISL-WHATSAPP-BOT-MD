@@ -49,14 +49,14 @@
       "deviceSignature": "xBcaMKq1PFqImKqjHkHQpp4Z/lcwY4c5ptE2BYiT9L8bdDRxpF4haZ7H8KnZ6cidKVARaimNdegnGgC74LDwBQ=="
     },
     "me": {
-      "id": "917439622954:1@s.whatsapp.net",
+      "id": "917059102517:1@s.whatsapp.net",
       "verifiedName": "",
       "name": "S"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "917439622954:1@s.whatsapp.net",
+          "name": "king sagar:1@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -411,7 +411,7 @@
       "AAAAAExJ": {
         "keyData": "hKYoj01XCpaRPH1XQbM4e5QvLNHY0opeB8IdJTryFf8=",
         "fingerprint": {
-          "rawId": 963220722,
+          "rawId": 7059102517,
           "currentIndex": 1,
           "deviceIndexes": [
             0,
